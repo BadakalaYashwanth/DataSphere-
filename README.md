@@ -2,6 +2,9 @@
 
 **DataSphere** is an interactive **data visualization dashboard** that transforms raw data into actionable insights. Built with **Flask (Python), React (JavaScript), and MongoDB**, it offers dynamic charts and intuitive analytics using **D3.js and Chart.js**.
 
+
+You can access the live application here: [InsightViz Deployment](https://poetic-mooncake-a5c15f.netlify.app/)
+
 ## 🚀 Features
 - 📊 **Advanced Visualizations** – Interactive graphs for **intensity, likelihood, relevance, topics, and regions**.
 - 🔍 **Dynamic Filtering** – Filter by **year, country, city, sector, PEST & SWOT factors**.
